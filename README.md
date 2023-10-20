@@ -3,7 +3,9 @@
 - 大灰狼编译库`X86-R2C-R2S-R4S-R5S-N1-小米MI`等多系列全部适配OTA自动升级
 - 默认IP地址：`192.168.2.1`
 - 账户：`root`   密码：`空`
+- 
   🚩可以生成.config文件，生成后才自动编译！🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
+  
  ##### 固件更新下载:
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/shidahuilang/openwrt?style=for-the-badge&label=固件更新下载)](https://github.com/shidahuilang/openwrt/releases)
 
